@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>GCPの開発環境の構築が終わりました！！！！！！！！！！！！！！！</h1>
+      <h1>GCPの開発環境完了✨</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
